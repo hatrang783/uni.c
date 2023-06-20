@@ -1,0 +1,295 @@
+21
+1
+The Tale of Kieu
+Literature
+Nguyen Du
+1820
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+2
+The Great Gatsby
+Literature
+F. Scott Fitzgerald
+1925
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+3
+Mathematics for Economics and Business
+Math
+Ian Jacques
+1992
+Unavailable
+14
+6
+2022
+14
+7
+2022
+Lisa Manoban
+04343434
+4
+Clean Code
+Programming
+Robert Cecil Martin
+2008
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+5
+Dracula
+Literature
+Bram Stoker
+1897
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+6
+The C Programming Language
+Programming
+Brian Kernighan
+1978
+Unavailable
+12
+6
+2022
+12
+7
+2022
+Gorden Ramsay
+01235897
+7
+Head Java First
+Programming
+Bert Bates and Kathy Sierra
+2003
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+8
+Thinking with Type
+Design
+Ellen Lupton
+2004
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+9
+Fluent Python
+Programming
+Luciano Ramalho
+2015
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+10
+The Math Book
+Math
+Karl Warsi
+2019
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+11
+Abstract Algebra
+Math
+David Dummit
+2018
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+12
+Galois Theory
+Math
+Ian Stewart
+1973
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+13
+Little Women
+Literature
+Louisa May Alcott
+1868
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+14
+Lolita
+Literature
+Vladimir Nabokov
+1955
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+15
+Emma
+Literature
+Jane Austen
+1815
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+16
+Code Complete
+Programming
+Steve McConnell
+1993
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+17
+Why Fonts Matter
+Design
+Sarah Hyndman
+2016
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+18
+What is Mathematics?
+Math
+Herbert Robbins and Richard Courant
+1941
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+19
+Don Quixote
+Literature
+Miguel de Cervantes
+1605
+Available
+0
+0
+0
+0
+0
+0
+0
+0
+20
+When the light is out
+Literature
+Ngo Tat To
+1937
+Unavailable
+22
+6
+2022
+22
+7
+2022
+Van
+012345
+21
+book 1
+Math
+Trang
+2000
+Available
+0
+0
+0
+0
+0
+0
+0
+0

@@ -1,0 +1,8 @@
+﻿  final01.cpp
+C:\Users\HUONG GIANG\Documents\UNI\Programming 1\Final\final01\final01\final01.cpp(72,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUONG GIANG\Documents\UNI\Programming 1\Final\final01\final01\final01.cpp(76,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUONG GIANG\Documents\UNI\Programming 1\Final\final01\final01\final01.cpp(79,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUONG GIANG\Documents\UNI\Programming 1\Final\final01\final01\final01.cpp(83,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUONG GIANG\Documents\UNI\Programming 1\Final\final01\final01\final01.cpp(92,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HUONG GIANG\Documents\UNI\Programming 1\Final\final01\final01\final01.cpp(95,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  final01.vcxproj -> C:\Users\HUONG GIANG\Documents\UNI\Programming 1\Final\final01\x64\Debug\final01.exe
